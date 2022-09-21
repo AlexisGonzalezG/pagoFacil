@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "pagoFacil",
+			"path": "../../.git/pagoFacil"
+		}
+	],
+	"settings": {}
+}
